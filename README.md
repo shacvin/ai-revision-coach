@@ -21,7 +21,6 @@ An AI-powered retention system for micro-learning. After watching a short educat
 ## How to Run
 
 ```bash
-cd ~/Desktop/ai-revision-coach
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
