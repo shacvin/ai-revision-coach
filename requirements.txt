@@ -1,0 +1,8 @@
+yt-dlp
+youtube-transcript-api
+sentence-transformers
+chromadb
+anthropic
+streamlit
+plotly
+pandas

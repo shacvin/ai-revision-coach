@@ -1,0 +1,265 @@
+0:00
+Translator: Andrea McDonough Reviewer: Jessica Ruby
+0:15
+What's an algorithm?
+0:16
+In computer science,
+0:17
+an algorithm is a set of instructions
+0:19
+for solving some problem, step-by-step.
+0:22
+Typically, algorithms are executed by computers,
+0:24
+but we humans have algorithms as well.
+0:26
+For instance, how would you go about counting
+0:28
+the number of people in a room?
+0:30
+Well, if you're like me,
+0:31
+you probably point at each person,
+0:32
+one at a time,
+0:33
+and count up from 0:
+0:35
+1, 2, 3, 4 and so forth.
+0:38
+Well, that's an algorithm.
+0:39
+In fact, let's try to express it
+0:40
+a bit more formally in pseudocode,
+0:43
+English-like syntax
+0:43
+that resembles a programming language.
+0:46
+Let n equal 0.
+0:47
+For each person in room, set n = n + 1.
+0:52
+How to interpret this pseudocode?
+0:54
+Well, line 1 declares, so to speak,
+0:55
+a variable called n
+0:57
+and initializes its value to zero.
+0:59
+This just means that at the beginning of our algorithm,
+1:02
+the thing with which we're counting
+1:03
+has a value of zero.
+1:05
+After all, before we start counting,
+1:06
+we haven't counted anything yet.
+1:08
+Calling this variable n is just a convention.
+1:10
+I could have called it almost anything.
+1:12
+Now, line 2 demarks the start of loop,
+1:14
+a sequence of steps that will repeat some number of times.
+1:17
+So, in our example, the step we're taking
+1:19
+is counting people in the room.
+1:21
+Beneath line 2 is line 3,
+1:22
+which describes exactly how we'll go about counting.
+1:25
+The indentation implies that it's line 3
+1:27
+that will repeat.
+1:28
+So, what the pseudocode is saying
+1:30
+is that after starting at zero,
+1:32
+for each person in the room,
+1:33
+we'll increase n by 1.
+1:36
+Now, is this algorithm correct?
+1:38
+Well, let's bang on it a bit.
+1:40
+Does it work if there are 2 people in the room?
+1:42
+Let's see.
+1:43
+In line 1, we initialize n to zero.
+1:45
+For each of these two people,
+1:47
+we then increment n by 1.
+1:49
+So, in the first trip through the loop,
+1:50
+we update n from zero to 1,
+1:52
+on the second trip through that same loop,
+1:54
+we update n from 1 to 2.
+1:56
+And so, by this algorithm's end, n is 2,
+2:00
+which indeed matches the number of people in the room.
+2:02
+So far, so good.
+2:03
+How about a corner case, though?
+2:05
+Suppose that there are zero people in the room,
+2:07
+besides me, who's doing the counting.
+2:09
+In line 1, we again initialize n to zero.
+2:12
+This time, though, line 3 doesn't execute at all
+2:15
+since there isn't a person in the room,
+2:16
+and so, n remains zero,
+2:18
+which indeed matches the number of people in the room.
+2:20
+Pretty simple, right?
+2:21
+But counting people one a time is pretty inefficient, too, no?
+2:25
+Surely, we can do better!
+2:26
+Why not count two people at a time?
+2:28
+Instead of counting 1, 2, 3, 4, 5, 6, 7, 8, and so forth,
+2:33
+why not count
+2:34
+2, 4, 6, 8, and so on?
+2:36
+It even sounds faster, and it surely is.
+2:39
+Let's express this optimization in pseudocode.
+2:41
+Let n equal zero.
+2:43
+For each pair of people in room,
+2:45
+set n = n + 2.
+2:47
+Pretty simple change, right?
+2:49
+Rather than count people one at a time,
+2:51
+we instead count them two at a time.
+2:53
+This algorithm's thus twice as fast as the last.
+2:56
+But is it correct?
+2:57
+Let's see.
+2:58
+Does it work if there are 2 people in the room?
+3:00
+In line 1, we initialize n to zero.
+3:03
+For that one pair of people, we then increment n by 2.
+3:06
+And so, by this algorithm's end, n is 2,
+3:08
+which indeed matches the number of people in the room.
+3:11
+Suppose next that there are zero people in the room.
+3:13
+In line 1, we initialize n to zero.
+3:16
+As before, line 3 doesn't execute at all
+3:18
+since there aren't any pairs of people in the room,
+3:20
+and so, n remains zero,
+3:22
+which indeed matches the number of people in the room.
+3:25
+But what if there are 3 people in the room?
+3:27
+How does this algorithm fair?
+3:29
+Let's see.
+3:30
+In line 1, we initialize n to zero.
+3:32
+For a pair of those people,
+3:34
+we then increment n by 2,
+3:36
+but then what?
+3:37
+There isn't another full pair of people in the room,
+3:39
+so line 2 no longer applies.
+3:41
+And so, by this algorithm's end,
+3:43
+n is still 2, which isn't correct.
+3:45
+Indeed this algorithm is said to be buggy
+3:48
+because it has a mistake.
+3:49
+Let's redress with some new pseudocode.
+3:51
+Let n equal zero.
+3:53
+For each pair of people in room,
+3:55
+set n = n + 2.
+3:57
+If 1 person remains unpaired,
+4:00
+set n = n + 1.
+4:02
+To solve this particular problem,
+4:03
+we've introduced in line 4 a condition,
+4:06
+otherwise known as a branch,
+4:08
+that only executes if there is one person
+4:10
+we could not pair with another.
+4:12
+So now, whether there's 1 or 3
+4:14
+or any odd number of people in the room,
+4:16
+this algorithm will now count them.
+4:18
+Can we do even better?
+4:20
+Well, we could count in 3's or 4's or even 5's and 10's,
+4:23
+but beyond that it's going to get
+4:24
+a little bit difficult to point.
+4:26
+At the end of the day,
+4:27
+whether executed by computers or humans,
+4:29
+algorithms are just a set of instructions
+4:31
+with which to solve problems.
+4:33
+These were just three.
+4:35
+What problem would you solve with an algorithm?
+

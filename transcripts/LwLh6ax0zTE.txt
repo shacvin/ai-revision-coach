@@ -1,0 +1,214 @@
+Intro
+0:00
+Hey! How are you doing Econ students? This is Mr. Clifford, welcome to AC/DC Econ.
+0:03
+Right now we're going to talk about demand, and since demand has to do with buyers and consumers,
+0:07
+I'm going to explain it all consuming this gallon of milk.
+Law of Demand
+0:17
+So here we go, let's start it out.
+0:19
+That first taste of milk is just wonderful, right? Cold, refreshing.
+0:24
+The first thing you have to understand about demand is the law of demand,
+0:27
+which says that there's an inverse relationship between price and quantity demanded.
+0:31
+That means when the price goes down, the quantity demanded increases.
+0:35
+And if the price goes down, the quantity demanded goes up again.
+Demand Schedule
+0:38
+So take a look at this demand schedule.
+0:39
+As you can see, when the price goes down, the quantity demanded goes up.
+0:42
+When the price goes down to four, three, two, and one, the quantity demanded increases.
+Demand Curve
+0:48
+Now when you plot these points, you're gonna get a demand curve, which looks like this.
+0:51
+It's a downward sloping curve showing the law of demand.
+0:54
+Now there are three reasons why the demand curve is downwards sloping.
+0:57
+It's the reason for the law of demand, it's the substitution effect, the income effect,
+1:01
+and the law of diminishing marginal utility.
+Substitution Effect
+1:04
+Substitution effect says price goes down for milk, people are going to buy more milk,
+1:08
+because they're going to move away from other products that are now more relatively expensive.
+1:12
+So instead of buying juice, people are going to turn around and go buy more milk.
+1:14
+Now that goes the other way, when the price goes up for milk the quality demand for milks going to decrease.
+1:19
+Because people are going to move away from the milk and go find a different substitute product.
+1:23
+I wish I could find a substitute product, now the income effect says that when the price goes down
+Income Effect
+1:28
+people buy more milk, because their purchasing power has increased.
+1:31
+So if you go to the store, and you find out that milk is on sale and it only costs one dollar for a gallon of milk,
+1:36
+you're going to buy more because you can buy more.
+1:38
+Now you can buy with each dollar has increased, and of course it goes the other way.
+1:41
+If the price goes up for milk, people are going to stop buying milk, because their purchasing power has
+1:46
+decreased. Each dollar gets them less milk, and the third reason for the law of demand is something
+Diminishing Marginal Utility
+1:51
+called the law of diminishing marginal utility.
+1:53
+Remember utility is satisfaction and marginal is additional.
+1:57
+So this is the law of decreasing additional satisfaction.
+2:00
+The law says, as you consume anything, like milk, the additional satisfaction you're going to get,
+2:07
+is going to start to eventually decrease, which is exactly what's going on right here.
+2:11
+That very first sip was super refreshing, but that last one not so much.
+2:15
+Now this law applies to somebody drinking sips of milk, but it also applies to purchasing gallons of milk.
+2:20
+That very first gallon of milk you get for your family, is awesome because it gives you a lot of satisfaction.
+2:25
+You can have your milk and cookies, you can eat your cereal. Your second gallon of milk gives you some utility.
+2:29
+The third gives you some utility, but the law says eventually,
+2:32
+each additional gallon of milk that you consume is going to give you less and less additional utility.
+Shape of Demand Curve
+2:38
+This concept explains the law of demand, and the shape of the demand curve because they get people to buy
+2:43
+more quantity of milk. The price has to go lower,
+2:46
+because they get less and less additional satisfaction from each gallon of milk.
+2:51
+Its getting warm. Its getting warm. So a change in price goes along the demand curve,
+2:54
+but if something else other than price changes it'll actually shift the demand.
+2:57
+For example, let's say a study comes out that says milk causes baldness, that would cause
+3:02
+the entire demand curve to shift left. At every single price people are going to buy less, and so
+3:08
+the curve shifts to the left. That's called a decrease in demand, the opposite
+3:13
+is an increase in demand, and so at every single price people want to buy more.
+3:16
+So the demand curve shifts to the right.
+Shifters of Demand
+3:20
+Now theirs five shifter's, or determinants of demand.
+3:22
+These are the things that cause the demand curve to shift.
+3:24
+The first shiftier of demand is taste and preferences.
+3:27
+For example, what if a new study comes out that says if kids have milk in the morning before going to school,
+3:32
+do better at school and they're smarter?Well, that would increase the demand,
+3:35
+the demand curve would shift to the right.
+3:37
+Another shifter would be the number of consumers.
+3:39
+All of a sudden new customers come into town,
+3:42
+that's going to increase the demand for milk. Another shifter is the price of related goods
+3:47
+substitutes and complements. For example
+3:49
+almond milk and cows milk are substitutes for each other.
+3:55
+That's a bad idea. So if the price goes up for almond milk, and it's more expensive to buy this
+3:59
+then the demands going to increase for cows. If the price goes down for almond milk
+4:03
+that means people are going to move away from buying cows milk and buy more almond milk.
+4:08
+So the demand for cows milk will fall, of course there's also complements.
+4:11
+So when the price of cereal falls, is going to increase the demand for milk.
+Income
+4:18
+Now the next shifter is income. Income is a little tricky because it depends on the type of product
+4:22
+there's normal goods and inferior goods. So let's say that milk was a normal good.
+4:26
+This means when there's an increase in income the demands going to increase.
+4:30
+When there's a decrease in income the demands going to decrease.
+4:33
+An inferior good is just the opposite, when there's an increase in incomes the demand
+4:37
+falls, and when there's a decrease in incomes the demand will go up. So whenever you see a question that
+4:41
+involves income,
+4:43
+make sure to read the question carefully to find out if it's a normal good or an inferior good.
+Expectations
+4:47
+The last shifter of demand is a change in expectations. So for example,
+4:50
+if you think the price of milk is going to decrease next week you're going to buy less today
+4:55
+because the demand will decrease. If you think the price is going to increase next week
+4:59
+you're actually going to buy a whole not more today.
+5:02
+So that's going to increase the demand, now it's time to cover a super important detail
+5:04
+that you have to watch out for. It's the difference between a change in quantity demanded,
+5:08
+and change in demand.
+5:09
+So look at this graph for milk, right now you see three points. A, B, and C, and there's two ways to
+Milk Demand Curve
+5:14
+go from ten to twenty units, movement from A to B along the demand curve is a change in
+5:19
+quantity demand. So when the price goes down from three dollars to two dollars,
+5:23
+the quantity demanded goes up from ten to twenty.
+5:26
+Now A to C is a change in demand, price doesn't change, price stayed at three
+5:31
+but people decided to buy more, why?
+5:33
+Well because the five shifter's, like taste and preferences
+5:35
+that people prefer and want more milk then the entire demand curve will shift to the right.
+5:40
+At that same three dollar price people want more so that could change the demand.
+5:44
+It's a change in demand.
+5:46
+So I got a question for you, What happens to the demand for a product when the price goes down?
+Question of the Day
+5:51
+Oh, gosh this is a bad idea! So the answer is nothing.
+5:55
+When the price goes down demand stays exactly the same.
+5:57
+Prices causes the quantity demanded to change, the only thing that changes quantity demanded is the
+6:02
+change in price, and the only thing that changes demand is one of the five shifter's of demand.
+6:07
+Oh, man I think I'm lactose intolerant. I need those Cheerios.
+6:15
+We're good. We're good. And we're done. Make sure to take a look at the next video
+6:19
+which explains supply, the laws of supply and the shifter's of the supply curve.
+6:23
+Now don't forget to subscribe or leave a comment bellow, alright? Until next time.
+

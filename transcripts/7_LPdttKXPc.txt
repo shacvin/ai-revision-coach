@@ -1,0 +1,267 @@
+0:01
+so how does the internet work most of us
+0:05
+know how to use the internet without
+0:06
+actually understanding how it works sort
+0:09
+of like electricity in your home you use
+0:11
+it every day but may not understand the
+0:13
+mechanics behind it
+0:14
+and if the electric grid is difficult to
+0:16
+understand then the internet must be
+0:18
+impossible right
+0:19
+wrong
+0:21
+in the next few minutes I'll put you in
+0:23
+the top 10 percent of people who
+0:24
+understand how the internet actually
+0:25
+works for security catalyst.com I'm
+0:29
+Aaron Titus
+0:31
+whenever most people think of the
+0:33
+internet this is what comes to mind
+0:35
+the internet is not a bubble Cloud even
+0:38
+in the new age of cloud computing the
+0:40
+whole fuzzy Cloud picture was created by
+0:43
+people more concerned about job security
+0:44
+than education
+0:46
+this is the internet
+0:49
+the internet is a wire a actually buried
+0:51
+in the ground it might be fiber optics
+0:53
+copper or occasionally beam to
+0:55
+satellites or through cell phone
+0:57
+networks but the internet is simply a
+0:59
+wire
+1:01
+the internet is useful because two
+1:02
+computers connected directly to this
+1:04
+wire can communicate a server is a
+1:07
+special computer connected directly to
+1:09
+the internet and web pages or files on
+1:11
+that server's hard drive
+1:14
+every server has a unique Internet
+1:15
+Protocol address or IP address just like
+1:18
+a postal address IP addresses help
+1:21
+computers find each other
+1:22
+but since
+1:25
+72.14.205.100 it doesn't exactly roll
+1:28
+off the tongue we also give them names
+1:30
+like google.com facebook.com or security
+1:33
+catalyst.com
+1:35
+so this is how it works your computer at
+1:38
+home is not a server because it's not
+1:40
+connected directly to the internet
+1:42
+computers you and I use every day are
+1:44
+called clients because they're connected
+1:46
+indirectly to the internet through an
+1:48
+internet service provider
+1:50
+here we'll pretend that this is my home
+1:52
+laptop and I'm using DSL
+1:54
+now let's pretend that I want to visit
+1:56
+aol.com which is coincidentally both a
+1:59
+server and an ISP
+2:01
+I hop onto my laptop with DSL go through
+2:04
+my ISP onto the internet and look at
+2:07
+AOL.com my computer connects with
+2:09
+aol.com and I can look at its web pages
+2:12
+now let's say that I want to send an
+2:15
+email to Aunt Ruth
+2:16
+and Ruth has AOL dial up from home and
+2:19
+I've got a Gmail account
+2:22
+I log onto gmail.com and compose a
+2:25
+message to Aunt Ruth's email address and
+2:27
+Ruth aol.com
+2:29
+once I click Send gmail.com sends the
+2:32
+email to aol.com the next day Aunt Ruth
+2:36
+dials into AOL servers and retrieves the
+2:39
+email
+2:40
+whenever an email picture or web page
+2:43
+travels across the internet computers
+2:45
+break the information into smaller
+2:46
+pieces called packets
+2:48
+when information reaches its destination
+2:50
+the packets are reassembled in their
+2:52
+original order to make a picture email
+2:54
+web page or tweet
+2:58
+okay so imagine you're at work sitting
+3:01
+next to your boss and you're both
+3:02
+surfing online
+3:03
+your boss is doing market research and
+3:06
+you're updating your Facebook profile
+3:08
+you're both sending packets back and
+3:10
+forth over the internet
+3:12
+but what's to keep your packets from
+3:14
+accidentally ending up on your boss's
+3:16
+screen that could be embarrassing
+3:18
+the solution to that problem is IP
+3:21
+addresses and routers
+3:23
+everything connected directly or
+3:25
+indirectly to the internet has an IP
+3:27
+address everything
+3:29
+that includes your computer servers cell
+3:31
+phones and all of the equipment in
+3:33
+between
+3:34
+anywhere two or more parts of the
+3:36
+internet intersect there's a piece of
+3:38
+equipment called a router
+3:40
+routers direct your packets around the
+3:42
+internet helping each packet get one
+3:44
+step closer to its destination
+3:46
+every time you visit a website upwards
+3:48
+of 10 to 15 routers may help your
+3:50
+packets find their way to and from your
+3:53
+computer
+3:53
+imagine each packet as a piece of candy
+3:56
+wrapped in several layers the first
+3:58
+layer is your computer's IP address
+4:01
+your computer sends the packet to the
+4:03
+first router which adds its own IP
+4:05
+address
+4:06
+each time the packet reaches a new
+4:08
+router another layer is added until it
+4:10
+reaches the server then when the server
+4:13
+sends back information it creates
+4:15
+packets with an identical wrapping as
+4:17
+the packet makes its way over the
+4:18
+internet back to your computer each
+4:20
+router unwraps a layer to discover where
+4:23
+to send the packet next until it reaches
+4:25
+your computer and not your bosses
+4:28
+and that's how the internet works in
+4:30
+five minutes or less and you're now
+4:32
+easily in the top 10 percent of people
+4:34
+who understand the basics of the
+4:35
+internet
+4:36
+if you found this video helpful check
+4:38
+out security catalyst.com for all kinds
+4:40
+of ideas on how to protect your
+4:42
+information
+4:43
+I'm Aaron Titus
+

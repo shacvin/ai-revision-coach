@@ -1,0 +1,91 @@
+0:06
+DNA is a molecule made up of two strands
+0:09
+twisted around each other in a double helix shape.
+0:13
+Each strand is made up a sequence of four chemical bases
+0:17
+represented by the letters A, C, G and T.
+0:22
+The two strands are complementary.
+0:25
+This means that wherever there's a T in one strand
+0:27
+there will be in an A in the opposite strand,
+0:30
+and wherever there's a C
+0:32
+there will be a G in the other strand.
+0:35
+Each strand has a 5' end and a 3' end.
+0:39
+The two strands run in opposite directions.
+0:43
+This determines how each strand of DNA is replicated.
+0:47
+The first step in DNA replication is to separate the two strands.
+0:52
+This unzipping is done by an enzyme called helicase
+0:55
+and results in the formation of a replication fork.
+1:01
+The separated strands each provide a template for creating a new strand of DNA.
+1:08
+An enzyme called primase starts the process.
+1:16
+This enzyme makes a small piece of RNA
+1:18
+called a primer.
+1:20
+This marks the starting point for the construction of the new strand of DNA.
+1:25
+An enzyme called DNA polymerase binds to the primer
+1:29
+and will make the new strand of DNA.
+1:32
+DNA polymerase can only add DNA bases in one direction,
+1:36
+from the 5' end to the 3' end.
+1:40
+One of the new strands of DNA, the leading strand,
+1:44
+is made continuously,
+1:46
+the DNA polymerase adding bases one by one in the 5' to 3' direction.
+1:52
+The other strand, the lagging strand, cannot be made in this continuous way
+1:57
+because it runs in the opposite direction
+2:00
+the DNA polymerase can therefore only make this strand in a series of small chunks
+2:05
+called Okazaki fragments.
+2:13
+Each fragment is started with an RNA primer.
+2:20
+DNA polymerase then adds a short row of DNA bases
+2:23
+in the 5' to 3' direction.
+2:34
+The next primer is then added further down the lagging strand.
+2:38
+Another Okazaki fragment is then made and the process is repeated again.
+2:44
+Once the new DNA has been made
+2:47
+the enzyme exonuclease removes all the RNA primers from both strands of DNA.
+2:53
+Another DNA polymerase enzyme then fills in the gaps that are left behind
+2:57
+with DNA.
+3:03
+Finally the enzyme DNA ligase seals up the fragments of DNA
+3:08
+in both strands to form a continuous double strand.
+3:13
+DNA replication is described as semi- conservative
+3:17
+because each DNA molecule is made up of one old, conserved strand of DNA
+3:22
+and one new one.
+

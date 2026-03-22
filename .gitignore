@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB persistent store (rebuilt by build_dataset.py)
+chroma_db/
+
+# Generated data (rebuilt by build_dataset.py)
+data/
+
+# Piper TTS models (~60MB, auto-downloaded on first use)
+piper_models/
+
+# Terminal demo (Streamlit app.py is the UI)
+demo.py
+
+# Internal / working docs
+EXPLAINER.md
+TECHNICAL.md
+proposed_solution.md
+plan.md
+METHODOLOGY.md
+cost.md
+system_design.excalidraw
+
+# OS files
+.DS_Store
